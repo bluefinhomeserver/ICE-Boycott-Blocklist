@@ -1,0 +1,13 @@
+# Ice Filter list
+
+
+http://att.com/^$doc,reason="HAT&T is listed for boycott due to documented contracting that supports DHS operational communications capacity and DHS component infrastructure, including ICE and CBP. Public reporting describes DHS awarding AT&T Enterprise Infrastructure Solutions (EIS) task orders explicitly covering ICE (alongside other DHS components).[2]
+
+In addition, procurement reporting describes ICE Homeland Security Investigations (HSI) requirements for data analyst support services that include supplying raw data from AT&T and analyzing/interpreting that data to support investigations and operations conducted by an HSI special operations unit.[3]
+
+
+http://accenture.com/^$doc,reason="Accenture is listed for boycott due to documented work supporting U.S. immigration enforcement agencies, including contracts described as supporting ICE cyber defense and intelligence functions and CBP IT modernization and data center support.[2][3]
+
+Public reporting describes CBP awarding Accenture Federal Services an IT infrastructure operations and modernization contract valued at roughly $380 million, with work described as supporting CBP headquarters, field components, regional locations, and data centers.[4] Accenture’s own public announcement of the award describes delivering technology support across multiple CBP programs as part of CBP’s mission operations and modernization.[5]
+
+Separately, procurement reporting describes Accenture Federal Services as an awardee for ICE cyber defense and intelligence support (CDISS).[3][2]""
