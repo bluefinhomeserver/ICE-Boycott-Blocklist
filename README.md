@@ -7,4 +7,5 @@ Import into uBlock Origin with this URL: https://raw.githubusercontent.com/bluef
 
 Ublock Origin Settings > Filter list > Scroll down > Import
 
-<img width="1703" height="108" alt="image" src="https://github.com/user-attachments/assets/7da0db43-273d-4989-a090-68f4f70a6734" />
+<img width="1803" height="208" alt="example" src="https://github.com/user-attachments/assets/65e68c01-ddb6-4a94-b668-780de6bdeec6" />
+
